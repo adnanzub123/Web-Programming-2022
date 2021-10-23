@@ -5,42 +5,42 @@
  <!DOCTYPE html>
  <html lang="en">
     <head>
-     <meta charset="UTF-8">
-     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>Pesan Pizza</title>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Pesan Pizza</title>
     </head>
     <body>
         <h1>Black Goose Bistro | Pizza-on-Demand</h1>
         <p style="font-size: 23px;">Our 12" wood-fired pizzas are available for delivery. Bulid your <br> custom pizza and we'll deliver it within an hour.</p>
-        <table>
-        <legend>Your Information</legend>
         <form method="post" action="http://blackgoosebistro.com/pizza.php">
-        <tr>
-            <th style="text-align: left;"><label for="name">Name</label></th>
-            <td>:</td>
-            <td><input type="text" name="customername" id="name" size=40></td>
-        </tr>
-        <tr>
-            <th style="text-align: left;"><label for="address">Address</label></th>
-            <td>:</td>
-            <td><input type="text" name="address" id="address" size="40"></td>
-        </tr>
-        <tr>
-            <th style="text-align: left;"><label for="telp-number">Telephone Number</label></th>
-            <td>:</td>
-            <td><input type="tel" name="telephone" id="telp-number" size="40"></td>
-        </tr>
-        <tr>
-            <th style="text-align: left;"><label for="email">Email</label></th>
-            <td>:</td>
-            <td><input type="email" name="email" id="email" size="40"></td>
-        </tr>
-        <tr>
-            <th style="text-align: left;"><label for="note">Delivery instructions</label></th>
-            <td>:</td>
-            <td><textarea name="instructions" id="note" cols="40" rows="8" maxlength="400" placeholder="No more than 400 characters long" style="resize: none;"></textarea></td>
-        </tr>
+        <table>
+            <caption>Your Information</caption>
+            <tr>
+                <th style="text-align: left;"><label for="name">Name</label></th>
+                <td>:</td>
+                <td><input type="text" name="customername" id="name" size=40></td>
+            </tr>
+            <tr>
+                <th style="text-align: left;"><label for="address">Address</label></th>
+                <td>:</td>
+                <td><input type="text" name="address" id="address" size="40"></td>
+            </tr>
+            <tr>
+                <th style="text-align: left;"><label for="telp-number">Telephone Number</label></th>
+                <td>:</td>
+                <td><input type="tel" name="telephone" id="telp-number" size="40"></td>
+            </tr>
+            <tr>
+                <th style="text-align: left;"><label for="email">Email</label></th>
+                <td>:</td>
+                <td><input type="email" name="email" id="email" size="40"></td>
+            </tr>
+            <tr>
+                <th style="text-align: left;"><label for="note">Delivery instructions</label></th>
+                <td>:</td>
+                <td><textarea name="instructions" id="note" cols="40" rows="8" maxlength="400" placeholder="No more than 400 characters long" style="resize: none;"></textarea></td>
+            </tr>
         </table>
         <p><b>Design Your Dream Pizza: </b><br>Pizza specs</p>
         <p>Crust (Choose one):</p>
@@ -57,13 +57,13 @@
         <input type="checkbox" name="toppings[]" id="anchovies" value="Anchovies"><label for="anchovies">Anchovies</label><br>
         <input type="checkbox" name="toppings[]" id="pepperoni" value="Pepperoni"><label for="pepperoni">Pepperoni</label>
         <p>
-         Number <br>How many pizzas : <select name="pizzas" id="number">
-             <option value="1" id="number">1</option>
-             <option value="2" id="number">2</option>
-             <option value="3" id="number">3</option>
-             <option value="4" id="number">4</option>
-             <option value="5" id="number">5</option>
-             <option value="6" id="number">6</option>
+            Number <br>How many pizzas : <select name="pizzas" id="number">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
             </select>
         </p>
         <input type="submit" value="Bring me a pizza">
