@@ -1,0 +1,55 @@
+.box1 {
+	background-color: lightgreen;
+	margin: 30px 29px;
+	height: 2.5cm;
+	border: 1px solid;
+}
+
+.row1 {
+	margin-left: 29px;
+	margin-right: 29px;
+	position: fixed;
+}
+
+.kuning {
+	background-color: yellow;
+	height: 280px;
+	width: 210px;
+	float: left;
+	margin-right: 78px;
+	position: relative;
+	border: 1px solid;
+}
+
+.merah {
+	background-color: red;
+	height: 280px;
+	width: 26.5cm;
+	float: right;
+	border: 1px solid;
+}
+
+.row2 {
+	margin-right: 29px;
+	margin-left: 29px;
+	position: fixed;
+	bottom: 30px;
+}
+
+.kuning1 {
+	background-color: yellow;
+	width: 210px;
+	height: 160px;
+	float: left;
+	margin-right: 78px;
+	position: relative;
+	border: 1px solid;
+}
+
+.biru {
+	background-color: lightblue;
+	height: 160px;
+	width: 26.5cm;
+	float: right;
+	border: 1px solid;
+}

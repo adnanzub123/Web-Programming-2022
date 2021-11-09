@@ -1,0 +1,25 @@
+div {
+    margin-top: 50px;
+    height: 14cm;
+    width: 7cm;
+    float: left;
+}
+div.box1 {
+    background-color: yellow;
+    margin-left: 25px;
+}
+
+div.box2 {
+    background-color: red;
+    margin-left: 80px;
+}
+
+div.box3 {
+    background-color: lightgreen;
+    margin-left: 80px;
+}
+
+div.box4 {
+    background-color: lightblue;
+    margin-left: 80px;
+}
