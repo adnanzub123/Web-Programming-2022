@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+    margin: 0;
+    padding: 1px;
+}
+.app{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 45%;
+    height: 64%;
+    border: 1px solid black;
+}
+.chatbox{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 100%;
+    overflow-y: scroll;
+}
+.chat{
+    max-width: 80%;
+    height: auto;
+    padding: 1%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.message{
+    display: flex;
+    flex-direction: row;
+    height: 10%;
+    border: 1px solid black;
+}
+.message input{
+    height: 3em;
+    width: 70%;
+}
+.message input:focus{
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+.message button{
+    width: 30%;
+}
