@@ -1,0 +1,75 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background: rgb(17, 111, 148);
+	background-size: cover;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	font-family: sans-serif;
+}
+.container{
+	position: relative;
+	margin-top: 100px;
+	width: 450px;
+	height: 385px;
+	background: #bbbbbb;
+	border-radius: 9px;
+}
+.label{
+	padding: 24px 130px;
+	font-size: 35px;
+	font-weight: bold;
+	color: #120eeb;
+}
+.form_login{
+	padding: 20px 40px;
+}
+.form_login .tulisan{
+	font-size: 18px;
+	color: #130f40;
+	margin: 5px 0;
+}
+.form_login input{
+	height: 40px;
+	width: 350px;
+	padding: 0 5px;
+	font-size: 18px;
+	outline: none;
+	border: 1px solid silver;
+}
+.form_login .tulisan2{
+	margin-top: 30px;
+}
+.form_login button{
+	margin: 45px 0 30px 0;
+	height: 45px;
+	width: 365px;
+	font-size: 20px;
+	color: white;
+	outline: none;
+	cursor: pointer;
+	font-weight: bold;
+	background: #1d7e1a;
+	border-radius: 3px;
+	border: 1px solid #3949AB;
+	transition: .5s;
+}
+.form_login button:hover{
+	background: #151c6a;
+}
+.form_login #email_error,
+.form_login #pass_error{
+	margin-top: 9.5px;
+	width: 345px;
+	font-size: 18px;
+	color: #ffe604;
+	background: rgba(243, 46, 46, 0.678);
+	text-align: center;
+	padding: 5px 8px;
+	border-radius: 3px;
+	border: 1px solid #EF9A9A;
+	display: none;
+}

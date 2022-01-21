@@ -1,0 +1,89 @@
+header{
+    margin: 10px 7px 0px 15px;
+}
+
+.navigator {
+    float: right;
+    text-align: right;
+}
+
+.navigator ul {
+    margin-top: 1px;
+}
+
+.navigator li {
+    list-style-type: none;
+    font-weight: bold;
+    margin-top: 4px;
+}
+
+table {
+    display: inline-block;
+}
+
+.foto td {
+    padding-right: 25px;
+}
+
+.foto td img{
+    width: 128px;
+}
+
+td {
+    font-weight: bold;
+}
+
+section {
+    margin: 50px 7px 0px 15px;
+}
+
+footer {
+    margin: 50px 7px 0px 15px;
+    float: left;
+}
+
+.gambar {
+    margin-left: 20px;
+    width: 250px;
+    height: 173px;
+    display: inline-block;
+}
+
+.gambar img {
+    width: 80px;
+    float: none;
+}
+
+.foto-kiriba {
+    position: relative;
+    top: 110px;
+    float: left;
+}
+
+.foto-kananba {
+    position: relative;
+    top: 110px;
+    left: 86px;
+    float: right;
+}
+
+.foto-kananat {
+    position: relative;
+    left: 3px;
+}
+
+.foto-kiriat {
+    position: relative;
+    bottom: 60px;
+}
+
+.attach {
+    float: right;
+    margin-left: 20px;
+    width: 260px;
+    height: 161px;
+}
+
+td img {
+    width: 20px;
+}
