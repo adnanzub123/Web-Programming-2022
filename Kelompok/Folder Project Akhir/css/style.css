@@ -1,0 +1,26 @@
+.navbar-brand{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.background{
+    background-image: url(../asset/test.jpeg);
+    background-size: cover;
+    height: 20em;
+}
+
+.background h1 {
+    margin-top: 84px;
+}
+
+.berita {
+    border: black;
+}
+
+.berita .judul h3 {
+    border-bottom: grey 2px solid;
+    width: 75px;
+}
+
+.media-body p {
+    margin-top: 20px;
+}

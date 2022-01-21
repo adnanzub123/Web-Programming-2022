@@ -1,0 +1,34 @@
+Urutan pengembangan teknologi
+1. lahirnya internet yang bernama ARPANET project ditahun 1968 yang asosiaikan oleh nasa
+2. web pertama kali ada pada tahun 1989 dan linux pertama kali hadir pada tahun 1991
+3. ditahun 1994 netscape (Browser pertama kali), yahoo, amazon, w3c diluncurkan dan "at" @ mulai dikenal. 1995 bahasa pemograman java hadir.
+4. majalah Time mencatat 1 juta domain name di tahun 1997 dan ditahun 1998 google didirikan
+5. ditahun 2000 di rilisnya bahasa pemograman PHP versi 4.0
+   ditahun 2001 Wikipedia dan drupal diluncurkan
+   ditahun 2002 wifi mulai dikenal
+6. tahun 2004 dikenalkan web 2.0 summit
+   tahun 2005 facebook diluncurkan dan di tahun 2006 twitter diluncurkan
+7. 2007 dimulai teknologi phone dengan dirilis iphone 1
+   2008 android dan google maps dirilis
+8. 2009 RWD diperkenalkan, cloud computing take off, Github.com dirilis Devops : Colloborative Developement dan Node.js diperkenalkan
+9. 2012 booming social media dan big data
+   2013 docker technology
+   2014 material design diperkenalkan
+   2015 PHP 7 release
+   2015 javascript 6 (ES6)
+10. today sekitar 1 miliyar lebih website live di internet
+
+Generasi www
+
+1. web 1.0
+	website ini besifat read-only web atau mungkin adalah website sederhana hanya menampilkan berita yang bersifat statis. orang yang membuat web 1.0 ini terbatas atau bisa dibilang 1 organisasi saja. Web ini hanya berisi informasi atau berita, hasil riset saja sehingga pengguna internet/user hanya dapat membaca konten web dan hanya admin yang bisa membuat konten di web 1.0 atau minim interaksi antara pengguna internet/user untuk memperkaya konten web.
+
+web ini hanya dibuat dengan HTML saja
+
+web 2.0
+	website ini bersifat read-write web yang artinya sudah ada interaksi antara pengguna internet/user sehingga bisa memperkaya konten di website tersebut dan di web 2.0 bisa dikatakan sudah memasuki eranya kolaborasi atau interaksi sesama pengguna internet. Pengembang web atau pembuat web hanya membuat platform saja sehingga pengembang web tidak perlu membuat konten web lagi.
+
+RSS atau sindikasi data
+web 3.0
+
+	website ini bersifat intelligence muatan artificial intelligence sudah kental di web 3.0 dan pengguna internet/user sudah banyak. Simantik web sudah pantas sekali dan era teknologi web sudah ke arah sana dan kolaborasi antar aplikasi sudah kental di web 3.0 sehingga memudahkan web
